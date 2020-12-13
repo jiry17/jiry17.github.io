@@ -29,7 +29,7 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
-<li><strong>December 6, 2020</strong> PKU Student Algorithm Association successfully organized <a href="/activity/#sensetime">the 2020 SenseTime-Cup Programming Contest</a>. This contest is jointly organized by us and BUPT ZhouXing Algorithm Association, supported by <a href="https://www.sensetime.com/en">SenseTime</a>. </li>
+<li><strong>December 6, 2020</strong> PKU Student Algorithm Association successfully organized <a href="/activity/#sensetime">the 2020 SenseTime-Cup Programming Contest</a>. This contest is jointly organized by us and BUPT ZhouXing Algorithm Association, and is supported by <a href="https://www.sensetime.com/en">SenseTime</a>. </li>
 
 <li><strong>November 22, 2020</strong> I'm invited to set problems for <a href="/activity/#xiaomi2020">the 2020 ICPC China Beijing Xiaomi Invitational Programming Contest</a>. 3037 teams participated in its online contest, and 103 among them advanced to the onsite.</li>
 
