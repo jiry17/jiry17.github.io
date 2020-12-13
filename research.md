@@ -1,10 +1,12 @@
 ---
 layout: research
 slug: research
-title: 
+title: Research
 ---
 
-## Publications
+I'm now a first-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. 
+
+### Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 

@@ -1,10 +1,8 @@
 ---
 layout: activity
 slug: activity
-title:
+title: Activity
 ---
-
-## Competitive Programming
 
 <p> I am active in relevant activities of competitive programming. </p>
 

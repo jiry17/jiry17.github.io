@@ -25,5 +25,5 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 </p>
 
-## News
+### News
 
