@@ -1,6 +1,7 @@
 ---
 layout: activity
 slug: activity
+title:
 ---
 
 ## Competitive Programming
