@@ -19,7 +19,7 @@ title: Activity
 The followings are our on-going projects and recent activities.
 
 <ul><li><p><a href="https://oi-wiki.org/">OI Wiki</a> is an online knowledge base of competitive programming. There are more than 200 contributors to this project. In 2020, OI Wiki  has attracted <strong>343k visits</strong> from all around the world. </p></li>
-<li><strong>December 6, 2020</strong> We organized the 2020 SenseTime-Cup Programming Contest. This contest is jointly organized by us and BUPT ZhouXing Algorithm Association. <strong> More then 80</strong> teams from Peking Univerisity and Beijing University of Posts and Telecommunications participated in this contest, and 6 of them won awards.  [<a href="https://mp.weixin.qq.com/s/s5NiaMpoV91tNTsYlBESiA">News(Chinese)</a>]</li>
+<li id="sensetime"><strong>December 6, 2020</strong> We organized the 2020 SenseTime-Cup Programming Contest. This contest is jointly organized by us and BUPT ZhouXing Algorithm Association. <strong> More then 80</strong> teams from Peking Univerisity and Beijing University of Posts and Telecommunications participated in this contest, and 6 of them won awards.  [<a href="https://mp.weixin.qq.com/s/s5NiaMpoV91tNTsYlBESiA">News(Chinese)</a>]</li>
 <li><strong>November 7, 2020</strong> We organized a guidance activity for the course "Introduction to Computing". <strong>More than 320 students</strong> joint in this activity. [<a href="https://mp.weixin.qq.com/s/-2pCT4zZPd8gj9Dq1A9JNw">News(Chinese)</a>]</li>
 <li><strong>May 17, 2020</strong> We organized the 2020 MeiTuan-Cup Programming Contest. <strong>555 teams</strong> participated in this contest, and 60 of them won awards. [<a href="https://mp.weixin.qq.com/s/NXYaP4g8sw_CnNWgqnEWsw">News(Chinese)</a>] </li>
 </ul>
@@ -27,36 +27,36 @@ The followings are our on-going projects and recent activities.
 ### Problem Setting
 
 <p>
-I am a half-professional problem setter of competitive programming. I've set problems for several regional contests and many training contests.</p>
+I am a problem setter of competitive programming. I've set problems for several regional contests and many training contests.</p>
 
 <table>
   <thead>
     <tr>
-      <td class="td">2020.12</td>
-      <td>The 2020 ICPC China Beijing Xiaomi Invitational Programming Contest, Xiaomi Science Park, Sunday November 22, 2020. [<a href="/problems/2020xiaomi.pdf">Problems</a>][<a href="/problems/2020xiaomi-solution.pdf">Solution(Chinese)</a>]</td>
+      <td class="td">[2020.12]</td>
+      <td id="xiaomi2020">The 2020 ICPC China Beijing Xiaomi Invitational Programming Contest, Xiaomi Science Park, Sunday November 22, 2020. [<a href="/problems/2020xiaomi.pdf">Problems</a>][<a href="/problems/2020xiaomi-solution.pdf">Solution(Chinese)</a>][<a href="https://www.sohu.com/a/433791920_690895">News(Chinese)</a>]</td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="td">2020.09</td>
+      <td class="td">[2020.09]</td>
       <td>The 2020 CCPC Selection Contest, Online, Sunday September 20, 2020. [<a href="/problems/2020ccpconline.pdf">Problems</a>][<a href="/problems/2020ccpconline-solution.pdf">Solution(Chinese)</a>]</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td class="td">2020.05</td>
-      <td>The 2020 MeiTuan-Cup Programming Contest, Sunday May 17, 2020. [<a href="https://uoj.ac/contest/53">Problems(Chinese)</a>][<a href="https://www.bilibili.com/video/BV1Rz4y1R7Ks">Vedio Solution(Chinese)</a>]</td>
+      <td class="td">[2020.05]</td>
+      <td>The 2020 MeiTuan-Cup Programming Contest, Sunday May 17, 2020. [<a href="https://uoj.ac/contest/53">Problems(Chinese)</a>][<a href="https://www.bilibili.com/video/BV1Rz4y1R7Ks">Vedio Solution(Chinese)</a>][<a href="https://mp.weixin.qq.com/s/NXYaP4g8sw_CnNWgqnEWsw">News(Chinese)</a>]</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td class="td">2019.08</td>
+      <td class="td">[2019.08]</td>
       <td>2019 Multi-University Training Contest 9, Online, Monday August 19, 2019. [<a href="/problems/2019hdu.pdf">Problems</a>][<a href="/problems/2019hdu-solution.pdf">Solution(Chinese)</a>]</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td class="td">2018.12</td>
+      <td class="td">[2018.12]</td>
       <td>The 2018 ACM-ICPC Asia East Continent Finals, Northwestern Polytechnical University, Sunday December 16, 2018. [<a href="/problems/2018ecfinal.pdf">Problems</a>][<a href="https://www.bilibili.com/video/BV19t411a7Yv">Vedio Solution(Chinese)</a>]</td>
     </tr>
   </tbody>

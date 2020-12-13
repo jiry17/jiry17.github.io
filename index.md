@@ -27,3 +27,11 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 ### News
 
+<ul>
+
+<li><strong>December 6, 2020</strong> PKU Student Algorithm Association sucessfully organized <a href="/activity/#sensetime">the 2020 SenseTime-Cup Programming Contest</a>. This contest is jointly organized by us and BUPT ZhouXing Algorithm Association, supported by <a href="https://www.sensetime.com/en">SenseTime</a>. </li>
+
+<li><strong>November 22, 2020</strong> I'm invited to set problems for <a href="/activity/#xiaomi2020">The 2020 ICPC China Beijing Xiaomi Invitational Programming Contest</a>. 3037 teams participated in its online contest, and 103 among them advanced to the onsite.</li>
+
+<li><strong> October 1, 2020</strong> I'm excited that our paper <a href="/research/#OOPSLA20">Guiding Dynamic Programing via Structural Probability for Accelerating Programming by Example</a> has been accepted at OOPSLA'20. This paper combines structural probability and dynamic programming to faster solve programming-by-example tasks. Our appraoch, <i>MaxFlash</i>, achieved 4x-2080x speed-ups against SOTA synthesizers.  </li>
+</ul>
