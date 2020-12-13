@@ -1,9 +1,8 @@
 ---
 layout: research
 slug: /research
+title: Publications
 ---
-
-## Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
