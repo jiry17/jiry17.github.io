@@ -10,7 +10,7 @@ og_image: /assets/img/profile-pic.jpg
 header:
   pages:
     - name: Home
-      slug: /
+      slug: index
     - name: Research
     - name: Activity
 
