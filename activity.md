@@ -35,7 +35,7 @@ I am a problem setter of competitive programming. I've set problems for several 
   <tbody>
     <tr>
       <td class="td">[2021.07]</td>
-      <td>The 2021 MeiTuan-Cup Programming Contest, Sunday July 21, 2021. [<a href="https://uoj.ac/contest/66">Problems(Chinese)</a>][<a href="https://www.bilibili.com/video/BV1Xb4y1r7ML">Vedio Solution(Chinese)</a>][<a href="https://mp.weixin.qq.com/s/OIi5yZRFCmQKcqoKIwY82w">News(Chinese)</a>]</td>
+      <td>The 2021 MeiTuan-Cup Programming Contest, Sunday July 21, 2021. [<a href="https://uoj.ac/contest/66">Problems(Chinese)</a>][<a href="https://www.bilibili.com/video/BV1Xb4y1r7ML">Video Solution(Chinese)</a>][<a href="https://mp.weixin.qq.com/s/OIi5yZRFCmQKcqoKIwY82w">News(Chinese)</a>]</td>
     </tr>
   </tbody>
   <tbody>
@@ -53,7 +53,7 @@ I am a problem setter of competitive programming. I've set problems for several 
   <tbody>
     <tr>
       <td class="td">[2020.05]</td>
-      <td>The 2020 MeiTuan-Cup Programming Contest, Sunday May 17, 2020. [<a href="https://uoj.ac/contest/53">Problems(Chinese)</a>][<a href="https://www.bilibili.com/video/BV1Rz4y1R7Ks">Vedio Solution(Chinese)</a>][<a href="https://mp.weixin.qq.com/s/NXYaP4g8sw_CnNWgqnEWsw">News(Chinese)</a>]</td>
+      <td>The 2020 MeiTuan-Cup Programming Contest, Sunday May 17, 2020. [<a href="https://uoj.ac/contest/53">Problems(Chinese)</a>][<a href="https://www.bilibili.com/video/BV1Rz4y1R7Ks">Video Solution(Chinese)</a>][<a href="https://mp.weixin.qq.com/s/NXYaP4g8sw_CnNWgqnEWsw">News(Chinese)</a>]</td>
     </tr>
   </tbody>
   <tbody>
@@ -65,7 +65,7 @@ I am a problem setter of competitive programming. I've set problems for several 
   <tbody>
     <tr>
       <td class="td">[2018.12]</td>
-      <td>The 2018 ACM-ICPC Asia East Continent Finals, Northwestern Polytechnical University, Sunday December 16, 2018. [<a href="/problems/2018ecfinal.pdf">Problems</a>][<a href="https://www.bilibili.com/video/BV19t411a7Yv">Vedio Solution(Chinese)</a>]</td>
+      <td>The 2018 ACM-ICPC Asia East Continent Finals, Northwestern Polytechnical University, Sunday December 16, 2018. [<a href="/problems/2018ecfinal.pdf">Problems</a>][<a href="https://www.bilibili.com/video/BV19t411a7Yv">Video Solution(Chinese)</a>]</td>
     </tr>
   </tbody>
 </table>
