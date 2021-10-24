@@ -29,7 +29,9 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
-<li><strong>July 11, 2021</strong> PKU Student Algorithm Association successfully organized <a href="//activity/#meituan21">the 2021 MeiTuan-Cup Programming Contest</a>. <strong>271 teams</strong> participated in this contest, and 31 of them won awards.
+<li><strong>August 31, 2021</strong> Our paper <a href="/research/#OOPSLA21">Generalizable Synthesis Through Unification</a> has been accepted at OOPSLA'21. In this paper, we study the generalizability of program synthesizers and design a solver with theoretically guaranteed generalizability based on the framework of synthesis through unification and the theory of Occam learning.</li>
+
+<li><strong>July 11, 2021</strong> PKU Student Algorithm Association successfully organized <a href="/activity/#meituan21">the 2021 MeiTuan-Cup Programming Contest</a>. <strong>271 teams</strong> participated in this contest, and 31 of them won awards.
 </li>
 
 <li><strong>June 15, 2021</strong> Our paper <a href="/research/#ICSME21">Interactive Patch Filtering as Debugging Aid</a> has been accepted at ICSME'21. In this paper, we show that, program repair tools with a low precision can become useful with a paper interaction tool. This paper is a follow-up to our <a href="/research/#PLDI20">PLDI'20</a> paper.</li> 

@@ -4,13 +4,15 @@ slug: research
 title: Research
 ---
 
-I'm now a first-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. 
+I'm now a second-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. 
 
 ### Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
-<table><tr> <td align="left" class="td" id="ICSME21">[ICSME21]</td> <td align="left">Jingjing Liang, Ruyi Ji, Jiajun Jiang, Shurui Zhou, Yiling Lou, Yingfei Xiong, Gang Huang. <strong>Interactive Patch Filtering as Debugging Aid</strong>. ICSME'21: 37th International Conference on Software Maintenance and Evolution, September 2021. [<a href="/paper/ICSME21.pdf">Paper</a>]</td></tr>
+<table><tr> <td align="left" class="td" id="OOPSLA21">[OOPSLA21]</td> <td align="left">Ruyi Ji, Jingtao Xia, Yingfei Xiong, Zhenjiang Hu. <strong>Generalizable Synthesis Through Unification</strong>. OOPSLA'21: Object Oriented Programming Languages, Systems and Applications, October 2021. [<a href="/paper/OOPSLA21.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=QSKaonLm5X0">Video</a>][<a href="https://github.com/jiry17/PolyGen">Source</a>]</td></tr>
+
+<table><tr> <td align="left" class="td" id="ICSME21">[ICSME21]</td> <td align="left">Jingjing Liang, Ruyi Ji, Jiajun Jiang, Shurui Zhou, Yiling Lou, Yingfei Xiong, Gang Huang. <strong>Interactive Patch Filtering as Debugging Aid</strong>. ICSME'21: 37th International Conference on Software Maintenance and Evolution, September 2021. <i>IEEE TCSE Distinguished Paper Award</i> [<a href="/paper/ICSME21.pdf">Paper</a>]</td></tr>
 
 <table><tr> <td align="left" class="td" id="OOPSLA20">[OOPSLA20]</td> <td align="left">Ruyi Ji, Yican Sun, Yingfei Xiong, Zhenjiang Hu. <strong>Guiding Dynamic Programming via Structural Probability for Accelerating Programming by Example</strong>. OOPSLA'20: Object-Oriented Programming, Systems, Languages, and Applications 2020, November 2020. [<a href="/paper/OOPSLA20.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=wJy-gEXVxO0">Video</a>][<a href="https://github.com/jiry17/MaxFlash">Source</a>]</td></tr>
 
