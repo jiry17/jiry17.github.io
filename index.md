@@ -29,7 +29,7 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
-<li><strong>Oct 9, 2022</strong> I am glad to receive Microsoft Research Asia Fellowship (i.e., Microsoft Research Ph.D. Fellowship in the Asia-Pacific area)!.</li>
+<li><strong>October 9, 2022</strong> I am glad to receive Microsoft Research Asia Fellowship (i.e., Microsoft Research Ph.D. Fellowship in the Asia-Pacific area)!</li>
 
 <li><strong>August 31, 2021</strong> Our paper <a href="/research/#OOPSLA21">Generalizable Synthesis Through Unification</a> has been accepted at OOPSLA'21. In this paper, we study the generalizability of program synthesizers and design a solver with theoretically guaranteed generalizability based on the framework of synthesis through unification and the theory of Occam learning.</li>
 
