@@ -11,7 +11,7 @@ I'm now a third-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
 <table><tr> <td align="left" class="td" id="OOPSLA23">[OOPSLA23]</td> <td align="left">Ruyi Ji, Chaozhe Kong, Yingfei Xiong, Zhenjiang Hu. <strong>Improving Oracle-Guided Inductive Synthesis by Efficient
-Question Selection</strong>. OOPSLA'23: Object Oriented Programming Languages, Systems and Applications, <i>Conditionally Accepted</i>. [<a href="/paper/OOPSLA23.pdf">Paper</a>][<a href="https://github.com/jiry17/LearnSy">Source</a>]</td></tr>
+Question Selection</strong>. OOPSLA'23: Object Oriented Programming Languages, Systems and Applications. [<a href="/paper/OOPSLA23.pdf">Paper</a>][<a href="https://github.com/jiry17/LearnSy">Source</a>]</td></tr>
 
 <table><tr> <td align="left" class="td" id="AutoLifter">[Manuscript]</td> <td align="left">Ruyi Ji, Yingfei Xiong, Lu Zhang, Zhenjiang Hu. <strong>Divide and Conquer Divide-and-Conquer -- Oracle-Guided Inductive Synthesis for Applying D&C-Like Algorithmic Paradigms</strong>. November 2022. [<a href="/paper/AutoLifter.pdf">Paper</a>]</td></tr>
 
