@@ -10,10 +10,13 @@ I'm now a third-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
-<table><tr> <td align="left" class="td" id="OOPSLA23">[OOPSLA23]</td> <td align="left">Ruyi Ji, Chaozhe Kong, Yingfei Xiong, Zhenjiang Hu. <strong>Improving Oracle-Guided Inductive Synthesis by Efficient
-Question Selection</strong>. OOPSLA'23: Object Oriented Programming Languages, Systems and Applications. [<a href="/paper/OOPSLA23.pdf">Paper</a>][<a href="https://github.com/jiry17/LearnSy">Source</a>]</td></tr>
+<table><tr> <td align="left" class="td" id="AutoLifter">[Manuscript]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Divide and Conquer Divide-and-Conquer -- Inductive Synthesis for D&C-Like Algorithmic Paradigms</strong>. April 2023. [<a href="/paper/AutoLifter.pdf">Paper</a>]</td></tr>
 
-<table><tr> <td align="left" class="td" id="AutoLifter">[Manuscript]</td> <td align="left">Ruyi Ji, Yingfei Xiong, Lu Zhang, Zhenjiang Hu. <strong>Divide and Conquer Divide-and-Conquer -- Oracle-Guided Inductive Synthesis for Applying D&C-Like Algorithmic Paradigms</strong>. November 2022. [<a href="/paper/AutoLifter.pdf">Paper</a>]</td></tr>
+<table><tr> <td align="left" class="td" id="OOPSLA23">[OOPSLA23]</td> <td align="left">Ruyi Ji, Chaozhe Kong, Yingfei Xiong, Zhenjiang Hu. <strong>Improving Oracle-Guided Inductive Synthesis by Efficient
+Question Selection</strong>. OOPSLA'23: Object Oriented Programming Languages, Systems and Applications, February 2023. [<a href="/paper/OOPSLA23.pdf">Paper</a>][<a href="https://github.com/jiry17/LearnSy">Source</a>]</td></tr>
+
+<table><tr> <td align="left" class="td" id="MetHyl">[Manuscript]</td> <td align="left">Ruyi Ji, Tianran Zhu, Yingfei Xiong, Zhenjiang Hu. <strong>Automating Thinning Theorem: Synthesizing Efficient
+Dynamic Programming Algorithms</strong>. April 2022. [<a href="/paper/MetHyl.pdf">Paper</a>]</td></tr>
 
 <table><tr> <td align="left" class="td" id="OOPSLA21">[OOPSLA21]</td> <td align="left">Ruyi Ji, Jingtao Xia, Yingfei Xiong, Zhenjiang Hu. <strong>Generalizable Synthesis Through Unification</strong>. OOPSLA'21: Object Oriented Programming Languages, Systems and Applications, October 2021. [<a href="/paper/OOPSLA21.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=QSKaonLm5X0">Video</a>][<a href="https://github.com/jiry17/PolyGen">Source</a>]</td></tr>
 
