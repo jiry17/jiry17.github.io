@@ -12,7 +12,7 @@ Hello,  I am Ruyi Ji (吉如一). Welcome to my home page.
 
 <p>
 
-I'm now a third-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. Click <a href="/research">here</a> for more about my research.
+I'm now a fourth-year Ph.D. student in the <a href="https://pl.cs.pku.edu.cn/en/">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. Click <a href="/research">here</a> for more about my research.
 </p>
 
 <p> I completed my undergraduate at <a href="http://english.pku.edu.cn/">Peking University</a>, where I worked with Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a> on interactive program synthesis.
@@ -29,6 +29,8 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
+<li><strong>September 22, 2023</strong> I will present my current reserach topic <a href="/research#SPLASH23DS">Scaling up Program Synthesis to Efficient Algorithms</a> at SPLASH '23 Doctoral Symposium.</li>
+
 <li><strong>February 26, 2023</strong> Our paper <a href="/research#OOPSLA23">Improving Oracle-Guided Inductive Synthesis by Efficient Question Selection</a> has been accepted as OOPSLA'23. In this paper, we design an efficient question selector that achieves general improvement for OGIS solvers. It reduces not only the number of OGIS iterations (valuable to interactive tasks) but also the time cost of solving non-interactive tasks.  This paper is a follow-up to our <a href="/research#PLDI20">PLDI'20</a> paper.</li>
 
 <li><strong>October 9, 2022</strong> I am glad to receive Microsoft Research Asia Fellowship (i.e., Microsoft Research Ph.D. Fellowship in the Asia-Pacific area)!</li>
@@ -40,4 +42,4 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <li><strong>June 15, 2021</strong> Our paper <a href="/research#ICSME21">Interactive Patch Filtering as Debugging Aid</a> has been accepted at ICSME'21. In this paper, we show that, program repair tools with a low precision can become useful with a paper interaction tool. This paper is a follow-up to our <a href="/research#PLDI20">PLDI'20</a> paper.</li> 
 
-<li><strong>December 6, 2020</strong> PKU Student Algorithm Association successfully organized <a href="/activity#sensetime">the 2020 SenseTime-Cup Programming Contest</a>. This contest is jointly organized by us and BUPT ZhouXing Algorithm Association, and is supported by <a href="https://www.sensetime.com/en">SenseTime</a>. </li>
+</ul>ul>

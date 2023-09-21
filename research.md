@@ -4,11 +4,14 @@ slug: research
 title: Research
 ---
 
-I'm now a third-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. 
+I'm now a fourth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. 
 
 ### Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
+
+
+<table><tr> <td align="left" class="td" id="SPLASH23DS">[SPLASH23DS]</td> <td align="left">Ruyi Ji. <strong>Scaling up Program Synthesis to Efficient Algorithms</strong>. SPLASH '23 Doctoral Symposium, September 2023. [<a href="/paper/SPLASH23DS.pdf">Paper</a>]</td></tr>
 
 <table><tr> <td align="left" class="td" id="AutoLifter">[Manuscript]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Divide and Conquer Divide-and-Conquer -- Inductive Synthesis for D&C-Like Algorithmic Paradigms</strong>.  <a href="https://arxiv.org/abs/2202.12193">arXiv:2202.12193</a>, April 2023. [<a href="/paper/AutoLifter.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
 
