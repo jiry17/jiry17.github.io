@@ -29,7 +29,7 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
-<li><strong>September 22, 2023</strong> I will present my current reserach topic <a href="/research#SPLASH23DS">Scaling up Program Synthesis to Efficient Algorithms</a> at SPLASH '23 Doctoral Symposium.</li>
+<li><strong>September 22, 2023</strong> I will present my current research topic <a href="/research#SPLASH23DS">Scaling up Program Synthesis to Efficient Algorithms</a> at SPLASH '23 Doctoral Symposium.</li>
 
 <li><strong>February 26, 2023</strong> Our paper <a href="/research#OOPSLA23">Improving Oracle-Guided Inductive Synthesis by Efficient Question Selection</a> has been accepted as OOPSLA'23. In this paper, we design an efficient question selector that achieves general improvement for OGIS solvers. It reduces not only the number of OGIS iterations (valuable to interactive tasks) but also the time cost of solving non-interactive tasks.  This paper is a follow-up to our <a href="/research#PLDI20">PLDI'20</a> paper.</li>
 
