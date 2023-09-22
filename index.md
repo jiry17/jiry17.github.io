@@ -42,4 +42,4 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <li><strong>June 15, 2021</strong> Our paper <a href="/research#ICSME21">Interactive Patch Filtering as Debugging Aid</a> has been accepted at ICSME'21. In this paper, we show that, program repair tools with a low precision can become useful with a paper interaction tool. This paper is a follow-up to our <a href="/research#PLDI20">PLDI'20</a> paper.</li> 
 
-</ul>ul>
+</ul>
