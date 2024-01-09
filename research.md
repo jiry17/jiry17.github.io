@@ -10,7 +10,7 @@ I'm now a fourth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysy
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
-<table><tr> <td align="left" class="td" id="AutoLifter">[Manuscript]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Decomposition-Based Synthesis for Applying Divide-and-Conquer-Like Algorithmic Paradigms</strong>.  <a href="https://arxiv.org/abs/2202.12193">arXiv:2202.12193</a>, December 2023. [<a href="/paper/AutoLifter.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
+<table><tr> <td align="left" class="td" id="TOPLAS24">[TOPLAS24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Decomposition-Based Synthesis for Applying Divide-and-Conquer-Like Algorithmic Paradigms</strong>. TOPLAS: ACM Transactions on Programming Languages and Systems, Accepted, January 2024. [<a href="/paper/TOPLAS24.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
 
 <table><tr> <td align="left" class="td" id="SPLASH23DS">[SPLASH23DS]</td> <td align="left">Ruyi Ji. <strong>Scaling up Program Synthesis to Efficient Algorithms</strong>. SPLASH '23 Doctoral Symposium, September 2023. [<a href="/paper/SPLASH23DS.pdf">Paper</a>]</td></tr>
 
@@ -31,3 +31,9 @@ Dynamic Programming Algorithms</strong>. <a href="https://arxiv.org/abs/2202.122
 <tr> <td align="left" class="td">[PLDI20]</td> <td align="left">Ruyi Ji, Jingjing Liang, Yingfei Xiong, Lu Zhang, Zhenjiang Hu. <strong>Question Selection for Interactive Program Synthesis</strong>. PLDI'20: 41st ACM-SIGPLAN Symposium on Programming Language Design and Implementation, June 2020.[<a href="/paper/PLDI20.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=kiMqddaV0io">Video</a>][<a href="https://github.com/jiry17/IntSy">Source</a>]</td></tr>
 
 </table>
+
+### Academic Service
+
+<ul>
+	<li><strong>2023</strong>, Judge: SPLASH'23 Student Research Competition</li>
+</ul>
