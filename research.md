@@ -33,7 +33,7 @@ Dynamic Programming Algorithms</strong>. <a href="https://arxiv.org/abs/2202.122
 </table>
 
 
-### Academic Service
+<h3 id="service">Academic Service</h3>
 
 <ul>
 	<li><strong>2023</strong>, Judge: SPLASH'23 Student Research Competition</li>
