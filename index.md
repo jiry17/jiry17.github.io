@@ -29,7 +29,7 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
-<li><strong>January 1, 2024</strong> Our paper <a href="/research#TOPLAS24">Decomposition-Based Synthesis for Applying D&C-Like Algorithmic Paradigms</a> has been accepted at TOPLAS. This is actually the first paper I worked on after I began my PhD, and it is finally accepted after three years of struggling. In this paper, we propose a new type of synthesis tasks, namely lifting problems, to uniformly capture the application of a series of algorithmic paradigms (e.g., divide-and-conquer, incremental computation, and single-pass) and then proposes an effective decomposition-based synthesizer for these tasks.</li>
+<li><strong>January 1, 2024</strong> Our paper <a href="/research#TOPLAS24">Decomposition-Based Synthesis for Applying D&C-Like Algorithmic Paradigms</a> has been accepted at TOPLAS. This is actually the first paper I worked on after I began my PhD, and it is finally accepted after three years of struggling. In this paper, we first propose a new type of synthesis tasks, namely lifting problems, to uniformly capture the application of a series of algorithmic paradigms (e.g., divide-and-conquer, incremental computation, and single-pass). Then, we propose an effective decomposition-based synthesizer for lifting problems. Our approach not only overcome the limitation of previous approaches to synthesize algorithms (that is, a strong requirement on the user-provided program) but also achieve a competitive (or even better) performance.</li>
 
 
 <li><strong>September 22, 2023</strong> I will present my current research topic <a href="/research#SPLASH23DS">Scaling up Program Synthesis to Efficient Algorithms</a> at SPLASH '23 Doctoral Symposium.</li>
