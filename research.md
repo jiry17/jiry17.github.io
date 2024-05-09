@@ -10,7 +10,7 @@ I'm now a fourth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysy
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
-<table><tr> <td align="left" class="td" id="TOPLAS24">[TOPLAS24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Decomposition-Based Synthesis for Applying Divide-and-Conquer-Like Algorithmic Paradigms</strong>. TOPLAS: ACM Transactions on Programming Languages and Systems, Accepted, January 2024. [<a href="/paper/TOPLAS24.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
+<table><tr> <td align="left" class="td" id="PLDI24">[PLDI24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Nadia Polikarpova, Yingfei Xiong, Zhenjiang Hu. <strong>Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</strong>. PLDI'24: ACM SIGPLAN Conference on Programming Language Design and Implementation, June 2024. [<a href="/paper/PLDI24.pdf">Paper</a>][<a href="https://github.com/jiry17/SuFu">Source</a>][<a href="http://8.140.207.65/">Online Demo</a>]</td></tr>
 
 <table><tr> <td align="left" class="td" id="SPLASH23DS">[SPLASH23DS]</td> <td align="left">Ruyi Ji. <strong>Scaling up Program Synthesis to Efficient Algorithms</strong>. SPLASH '23 Doctoral Symposium, September 2023. [<a href="/paper/SPLASH23DS.pdf">Paper</a>]</td></tr>
 

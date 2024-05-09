@@ -29,6 +29,8 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
+<li><strong>April 1, 2024</strong> Our paper <a href="/research#PLDI24">Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</a> has been accepted at PLDI24. In this paper, we design an efficient inductive synthesizer for the fusion problem, the automatic elimination of intermediate data structures. Our approach not only significantly outperforms existing approaches on fusion, but also achieves comparable performance to <a href="/research#TOPLAS24">AutoLifter</a>, our previous approach specialized for synthesizing D&C-like algorithms. You can quickly try SuFu using our <a href="http://8.140.207.65/">online demo</a>.</li>
+
 <li><strong>January 1, 2024</strong> Our paper <a href="/research#TOPLAS24">Decomposition-Based Synthesis for Applying D&C-Like Algorithmic Paradigms</a> has been accepted at TOPLAS. This is actually the first paper I worked on after I began my PhD, and it is finally accepted after three years of struggling. In this paper, we first propose a new type of synthesis tasks, namely lifting problems, to uniformly capture the application of a series of algorithmic paradigms (e.g., divide-and-conquer, incremental computation, and single-pass). Then, we propose an effective decomposition-based synthesizer for lifting problems. Our approach not only overcome the limitation of previous approaches to synthesize algorithms (that is, a strong requirement on the user-provided program) but also achieve a competitive (or even better) performance.</li>
 
 
@@ -37,12 +39,5 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 <li><strong>February 26, 2023</strong> Our paper <a href="/research#OOPSLA23">Improving Oracle-Guided Inductive Synthesis by Efficient Question Selection</a> has been accepted at OOPSLA'23. In this paper, we design an efficient question selector that achieves general improvement for OGIS solvers. It reduces not only the number of OGIS iterations (valuable to interactive tasks) but also the time cost of solving non-interactive tasks.  This paper is a follow-up to our <a href="/research#PLDI20">PLDI'20</a> paper.</li>
 
 <li><strong>October 9, 2022</strong> I am glad to receive Microsoft Research Asia Fellowship (i.e., Microsoft Research PhD Fellowship in the Asia-Pacific area)!</li>
-
-<li><strong>August 31, 2021</strong> Our paper <a href="/research#OOPSLA21">Generalizable Synthesis Through Unification</a> has been accepted at OOPSLA'21. In this paper, we study the generalizability of program synthesizers and design a solver with theoretically guaranteed generalizability based on the framework of synthesis through unification and the theory of Occam learning.</li>
-
-<li><strong>July 11, 2021</strong> PKU Student Algorithm Association successfully organized <a href="/activity#meituan21">the 2021 MeiTuan-Cup Programming Contest</a>. <strong>271 teams</strong> participated in this contest, and 31 of them won awards.
-</li>
-
-<li><strong>June 15, 2021</strong> Our paper <a href="/research#ICSME21">Interactive Patch Filtering as Debugging Aid</a> has been accepted at ICSME'21. In this paper, we show that, program repair tools with a low precision can become useful with a paper interaction tool. This paper is a follow-up to our <a href="/research#PLDI20">PLDI'20</a> paper.</li> 
 
 </ul>
