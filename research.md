@@ -4,13 +4,18 @@ slug: research
 title: Research
 ---
 
-I'm now a fourth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis. 
+I'm now a fifth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis and all related problems, like program optimization and verification. 
 
 ### Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
+<table><tr> <td align="left" class="td" id="FM24">[FM24]</td> <td align="left">Yican Sun, Ruyi Ji, Jian Fang, Xuanlin Jiang, Mingshuai Chen, Yingfei Xiong. <strong>Proving Functional Program Equivalence via Directed Lemma Synthesis</strong>. FM'24: 26th International Symposium on Formal Methods, September 2024. [<a href="/paper/FM24.pdf">Paper</a>]</tr>
 
-<table><tr> <td align="left" class="td" id="PLDI24">[PLDI24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Nadia Polikarpova, Yingfei Xiong, Zhenjiang Hu. <strong>Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</strong>. PLDI'24: ACM SIGPLAN Conference on Programming Language Design and Implementation, June 2024. [<a href="/paper/PLDI24.pdf">Paper</a>][<a href="https://github.com/jiry17/SuFu">Source</a>][<a href="http://8.140.207.65/">Online Demo</a>]</td></tr>
+<tr> <td align="left" class="td" id="ICFP24">[ICFP24]</td> <td align="left">Cole Kurashige, Ruyi Ji, Aditya Giridharan, Mark Barbone, Daniel Noor, Shachar Itzhaky, Ranjit Jhala, Nadia Polikarpova. <strong>CCLemma: E-Graph Guided Lemma Discovery for Inductive Equational Proofs</strong>. ICFP'24: ACM SIGPLAN International Conference on Functional Programming, Sept 2024.</td></tr>
+
+<tr> <td align="left" class="td" id="FSE24DEMO">[FSE24DEMO]</td> <td align="left">Zhao Zhang, Yican Sun, Ruyi Ji, Siyuan Li, Xuanyu Peng, Zhechong Huang, Sizhe Li, Tianran Zhu, Yingfei Xiong. <strong>ASAC: A Benchmark for Algorithm Synthesis</strong>. FSE'24-Demo: The ACM International Conference on the Foundations of Software Engineering, Tool Demonstration Track, July 2024. [<a href="/paper/FSE24DEMO.pdf">Paper</a>][<a href="https://auqwqua.github.io/ASACBenchmark/">Dataset</a>]</td></tr>
+
+<tr> <td align="left" class="td" id="PLDI24">[PLDI24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Nadia Polikarpova, Yingfei Xiong, Zhenjiang Hu. <strong>Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</strong>. PLDI'24: ACM SIGPLAN Conference on Programming Language Design and Implementation, June 2024. [<a href="/paper/PLDI24.pdf">Paper</a>][<a href="https://github.com/jiry17/SuFu">Source</a>][<a href="http://8.140.207.65/">Online Demo</a>]</td></tr>
 
 <tr> <td align="left" class="td" id="TOPLAS24">[TOPLAS24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Decomposition-Based Synthesis for Applying Divide-and-Conquer-Like Algorithmic Paradigms</strong>. TOPLAS: ACM Transactions on Programming Languages and Systems, Accepted, January 2024. [<a href="/paper/TOPLAS24.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
 
