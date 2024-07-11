@@ -9,7 +9,7 @@ I'm now a fifth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys
 ### Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
-<table><tr> <td align="left" class="td" id="FM24">[FM24]</td> <td align="left">Yican Sun, Ruyi Ji, Jian Fang, Xuanlin Jiang, Mingshuai Chen, Yingfei Xiong. <strong>Proving Functional Program Equivalence via Directed Lemma Synthesis</strong>. FM'24: 26th International Symposium on Formal Methods, September 2024. [<a href="/paper/FM24.pdf">Paper</a>]</tr>
+<table><tr> <td align="left" class="td" id="FM24">[FM24]</td> <td align="left">Yican Sun, Ruyi Ji, Jian Fang, Xuanlin Jiang, Mingshuai Chen, Yingfei Xiong. <strong>Proving Functional Program Equivalence via Directed Lemma Synthesis</strong>. FM'24: 26th International Symposium on Formal Methods, September 2024. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
 
 <tr> <td align="left" class="td" id="ICFP24">[ICFP24]</td> <td align="left">Cole Kurashige, Ruyi Ji, Aditya Giridharan, Mark Barbone, Daniel Noor, Shachar Itzhaky, Ranjit Jhala, Nadia Polikarpova. <strong>CCLemma: E-Graph Guided Lemma Discovery for Inductive Equational Proofs</strong>. ICFP'24: ACM SIGPLAN International Conference on Functional Programming, Sept 2024.</td></tr>
 
