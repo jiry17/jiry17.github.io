@@ -13,7 +13,6 @@ header:
       slug: index
     - name: Research
     - name: Activity
-    - name: SuFu
 
 footer:
   show_powered_by: true
