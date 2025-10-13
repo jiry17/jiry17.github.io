@@ -4,7 +4,7 @@ slug: research
 title: Research
 ---
 
-I'm now a fifth-year Ph.D. student in the <a href="http://115.27.245.253/cxyysys/index.htm">Programming Language Lab (PLL)</a> at <a href="http://english.pku.edu.cn/">Peking University</a>, advised by Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>. I am interested in program synthesis and all related problems, like program optimization and verification. 
+I am a postdoc at University of Michigan, working with Prof. <a href=https://web.eecs.umich.edu/~xwangsd/>Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems.
 
 ### Publications
 
