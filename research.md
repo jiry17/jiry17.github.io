@@ -4,7 +4,7 @@ slug: research
 title: Research
 ---
 
-I am a postdoc at University of Michigan, working with Prof. <a href=https://web.eecs.umich.edu/~xwangsd/>Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems.
+I am a postdoc at University of Michigan, working with Prof. <a href=https://web.eecs.umich.edu/~xwangsd/>Xinyu Wang<a/>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems.
 
 ### Publications
 
