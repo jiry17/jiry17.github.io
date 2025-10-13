@@ -11,7 +11,7 @@ Hello, I am Ruyi Ji (吉如一). Welcome to my home page.
 </p>
 
 <p>
-I am a postdoc at University of Michigan, working with Prof. <a href=https://web.eecs.umich.edu/~xwangsd/>Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems. Click <a href="/research">here</a> for more about my research.
+I am a postdoc at University of Michigan, working with Prof. <a href="https://web.eecs.umich.edu/~xwangsd/">Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems. Click <a href="/research">here</a> for more about my research.
 </p>
 
 <p>
@@ -30,11 +30,11 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <ul>
 
-<li><strong> August 19, 2025</string> Honored and proud that my PhD thesis has been selected for the 2025 Doctoral Dissertation Incentive Program by the CCF Formal Methods Committee!</li>
+<li><strong> August 19, 2025</strong> Honored and proud that my PhD thesis has been selected for the 2025 Doctoral Dissertation Incentive Program by the CCF Formal Methods Committee!</li>
 
 <li><strong>August 13, 2025</strong> Our paper <a href="research#OOPSLA25">Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</a> has been accepted at OOPSLA25. In this paper, we observe that intersecting multiple VSAs at once can be much more efficient than intersecting VSAs iteratively, thus proposing a novel VSA-intersection algorithm for program synthesis.</li>
 
-<li><strong>May 19, 2025</strong> I've successfully defended my thesis! Click <a href="/research#thesis">here<a/> for my PhD thesis.</li>
+<li><strong>May 19, 2025</strong> I've successfully defended my thesis! Click <a href="/research#thesis">here</a> for my PhD thesis.</li>
 
 <li><strong>April 1, 2024</strong> Our paper <a href="/research#PLDI24">Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</a> has been accepted at PLDI24. In this paper, we design an efficient inductive synthesizer for the fusion problem, the automatic elimination of intermediate data structures. Our approach not only significantly outperforms existing approaches on fusion, but also achieves comparable performance to <a href="/research#TOPLAS24">AutoLifter</a>, our previous approach specialized for synthesizing D&C-like algorithms. Try SuFu at our <a href="http://8.140.207.65/">online demo</a>.</li>
 
