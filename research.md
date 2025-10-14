@@ -6,17 +6,17 @@ title: Research
 
 I am a postdoc at the University of Michigan, working with Prof. <a href="https://web.eecs.umich.edu/~xwangsd/">Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems.
 
-### Publications
+## Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
 
-#### 2025
+### 2025
 <table>
-	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup>*</sup>, Ruyi Jisup><sup>*</sup>, Shuhao Zhangsup<sup>*</sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
-	<tr> <td align="left" class="td" id="thesis">[Thesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D thesis. [<a href="/paper/thesis.pdf">Paper (in Chinese)</a>]</td></tr>
+	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup>*</sup>, Ruyi Jisup><sup>*</sup>, Shuhao Zhangsup<sup>*</sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/OOPSLA25.pdf">Paper</a>]</td></tr>
+	<tr> <td align="left" class="td" id="thesis">[PhDThesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D. Thesis (in Chinese), School of Computer Science, Peking University, May 2025. [<a href="/paper/thesis.pdf">Paper</a>]</td></tr>
 </table>
 
-#### 2024
+### 2024
 
 <table><tr> <td align="left" class="td" id="FM24">[FM24]</td> <td align="left">Yican Sun, Ruyi Ji, Jian Fang, Xuanlin Jiang, Mingshuai Chen, Yingfei Xiong. <strong>Proving Functional Program Equivalence via Directed Lemma Synthesis</strong>. FM'24: 26th International Symposium on Formal Methods, September 2024. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
 
@@ -29,7 +29,7 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 <tr> <td align="left" class="td" id="TOPLAS24">[TOPLAS24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Decomposition-Based Synthesis for Applying Divide-and-Conquer-Like Algorithmic Paradigms</strong>. TOPLAS: ACM Transactions on Programming Languages and Systems, Accepted, January 2024. [<a href="/paper/TOPLAS24.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
 </table>
 
-#### Before
+### Before
 
 <table><tr> <td align="left" class="td" id="SPLASH23DS">[SPLASH23DS]</td> <td align="left">Ruyi Ji. <strong>Scaling up Program Synthesis to Efficient Algorithms</strong>. SPLASH '23 Doctoral Symposium, September 2023. [<a href="/paper/SPLASH23DS.pdf">Paper</a>]</td></tr>
 
@@ -52,9 +52,9 @@ Dynamic Programming Algorithms</strong>. <a href="https://arxiv.org/abs/2202.122
 </table>
 
 
-<h3 id="service">Academic Service</h3>
+## Academic Service
 
 <ul>
-	<li><string>2025</strong>, Reviewer: 
-	<li><strong>2023</strong>, Judge: SPLASH'23 Student Research Competition</li>
+	<li><strong>Reviewer</strong>: Journal of Software, Journal of Functional Programming
+	<li><strong>Judge</strong>: SPLASH'23 Student Research Competition</li>
 </ul>

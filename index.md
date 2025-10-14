@@ -16,7 +16,7 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 </p>
 
 <p>
-I received my PhD from Peking University under the supervision of Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>.
+I received my Ph.D. from Peking University under the supervision of Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>.
 </p>
 
 <p>
