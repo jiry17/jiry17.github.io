@@ -12,7 +12,7 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 
 ### 2025
 <table>
-	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup>*</sup>, Ruyi Jisup><sup>*</sup>, Shuhao Zhangsup<sup>*</sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/OOPSLA25.pdf">Paper</a>]</td></tr>
+	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup>*</sup>, Ruyi Ji<sup>*</sup>, Shuhao Zhang<sup>*</sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/OOPSLA25.pdf">Paper</a>]</td></tr>
 	<tr> <td align="left" class="td" id="thesis">[PhDThesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D. Thesis (in Chinese), School of Computer Science, Peking University, May 2025. [<a href="/paper/thesis.pdf">Paper</a>]</td></tr>
 </table>
 
@@ -55,6 +55,6 @@ Dynamic Programming Algorithms</strong>. <a href="https://arxiv.org/abs/2202.122
 ## Academic Service
 
 <ul>
-	<li><strong>Reviewer</strong>: Journal of Software, Journal of Functional Programming
+	<li><strong>Reviewer</strong>: Journal of Software, Journal of Functional Programming</li>
 	<li><strong>Judge</strong>: SPLASH'23 Student Research Competition</li>
 </ul>
