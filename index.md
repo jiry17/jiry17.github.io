@@ -4,6 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.jpeg
   alt: website picture
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <p>
 Hello, I am Ruyi Ji (吉如一). Welcome to my home page.
@@ -11,19 +12,20 @@ Hello, I am Ruyi Ji (吉如一). Welcome to my home page.
 </p>
 
 <p>
-I am a postdoc at University of Michigan, working with Prof. <a href="https://web.eecs.umich.edu/~xwangsd/">Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems. Click <a href="/research">here</a> for more about my research.
+I am a postdoc at the University of Michigan, working with Prof. <a href="https://web.eecs.umich.edu/~xwangsd/">Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems. Click <a href="/research">here</a> for more about my research.
 </p>
 
 <p>
 I received my PhD from Peking University under the supervision of Prof. <a href="http://sei.pku.edu.cn/~hu/">Zhenjiang Hu</a> and Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a>.
 </p>
 
-<!--<p> I completed my undergraduate at <a href="http://english.pku.edu.cn/">Peking University</a>, where I worked with Prof. <a href="https://xiongyingfei.github.io/">Yingfei Xiong</a> on interactive program synthesis.
-</p><-->
-
 <p>
 I used to be a contestant in competitive programming. I won the 3rd place, Gold medal in ACM/ICPC World Finals 2018. Now I'm still engaging in relevant activities. I'm the founder and the first president of PKU Student Algorithm Association.  Click <a href="/activity">here</a> for more about our activities.
+</p>
 
+<p>
+<i class="fa-solid fa-download" style="margin-right: 8px;"></i>
+Here is my <a href="/paper/cv.pdf">cv</a></span>.
 </p>
 
 ### News

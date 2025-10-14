@@ -4,7 +4,7 @@ slug: research
 title: Research
 ---
 
-I am a postdoc at University of Michigan, working with Prof. <a href="https://web.eecs.umich.edu/~xwangsd/">Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems.
+I am a postdoc at the University of Michigan, working with Prof. <a href="https://web.eecs.umich.edu/~xwangsd/">Xinyu Wang</a>. I am interseted in program synthesis and all related problems, like program optimization and verification. I am also curious about the potential of these techniques in enhancing LLMs on domain-specific problems.
 
 ### Publications
 
@@ -43,5 +43,6 @@ Dynamic Programming Algorithms</strong>. <a href="https://arxiv.org/abs/2202.122
 <h3 id="service">Academic Service</h3>
 
 <ul>
+	<li><string>2025</strong>, Reviewer: 
 	<li><strong>2023</strong>, Judge: SPLASH'23 Student Research Competition</li>
 </ul>
