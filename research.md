@@ -9,6 +9,15 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 ### Publications
 
 <p>[<a href="https://scholar.google.com/citations?hl=en&user=RXx21P4AAAAJ">Google Scholar</a>]</p>
+
+#### 2025
+<table>
+	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup><a>*</a></sup>, Ruyi Jisup><a>*</a></sup>, Shuhao Zhangsup><a>*</a></sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
+	<tr> <td align="left" class="td" id="thesis">[Thesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D thesis. [<a href="/paper/thesis.pdf">Paper (in Chinese)</a>]</td></tr>
+</table>
+
+#### 2024
+
 <table><tr> <td align="left" class="td" id="FM24">[FM24]</td> <td align="left">Yican Sun, Ruyi Ji, Jian Fang, Xuanlin Jiang, Mingshuai Chen, Yingfei Xiong. <strong>Proving Functional Program Equivalence via Directed Lemma Synthesis</strong>. FM'24: 26th International Symposium on Formal Methods, September 2024. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
 
 <tr> <td align="left" class="td" id="ICFP24">[ICFP24]</td> <td align="left">Cole Kurashige, Ruyi Ji, Aditya Giridharan, Mark Barbone, Daniel Noor, Shachar Itzhaky, Ranjit Jhala, Nadia Polikarpova. <strong>CCLemma: E-Graph Guided Lemma Discovery for Inductive Equational Proofs</strong>. ICFP'24: ACM SIGPLAN International Conference on Functional Programming, September 2024. [<a href="/paper/ICFP24.pdf">Paper</a>]</td></tr>
@@ -18,8 +27,11 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 <tr> <td align="left" class="td" id="PLDI24">[PLDI24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Nadia Polikarpova, Yingfei Xiong, Zhenjiang Hu. <strong>Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis</strong>. PLDI'24: ACM SIGPLAN Conference on Programming Language Design and Implementation, June 2024. [<a href="/paper/PLDI24.pdf">Paper</a>][<a href="https://github.com/jiry17/SuFu">Source</a>][<a href="http://8.140.207.65/">Online Demo</a>]</td></tr>
 
 <tr> <td align="left" class="td" id="TOPLAS24">[TOPLAS24]</td> <td align="left">Ruyi Ji, Yuwei Zhao, Yingfei Xiong, Di Wang, Lu Zhang, Zhenjiang Hu. <strong>Decomposition-Based Synthesis for Applying Divide-and-Conquer-Like Algorithmic Paradigms</strong>. TOPLAS: ACM Transactions on Programming Languages and Systems, Accepted, January 2024. [<a href="/paper/TOPLAS24.pdf">Paper</a>][<a href="https://github.com/jiry17/AutoLifter">Source</a>]</td></tr>
+</table>
 
-<tr> <td align="left" class="td" id="SPLASH23DS">[SPLASH23DS]</td> <td align="left">Ruyi Ji. <strong>Scaling up Program Synthesis to Efficient Algorithms</strong>. SPLASH '23 Doctoral Symposium, September 2023. [<a href="/paper/SPLASH23DS.pdf">Paper</a>]</td></tr>
+#### Before
+
+<table><tr> <td align="left" class="td" id="SPLASH23DS">[SPLASH23DS]</td> <td align="left">Ruyi Ji. <strong>Scaling up Program Synthesis to Efficient Algorithms</strong>. SPLASH '23 Doctoral Symposium, September 2023. [<a href="/paper/SPLASH23DS.pdf">Paper</a>]</td></tr>
 
 <tr> <td align="left" class="td" id="OOPSLA23">[OOPSLA23]</td> <td align="left">Ruyi Ji, Chaozhe Kong, Yingfei Xiong, Zhenjiang Hu. <strong>Improving Oracle-Guided Inductive Synthesis by Efficient
 Question Selection</strong>. OOPSLA'23: Object Oriented Programming Languages, Systems and Applications, February 2023. [<a href="/paper/OOPSLA23.pdf">Paper</a>][<a href="https://github.com/jiry17/LearnSy">Source</a>]</td></tr>
