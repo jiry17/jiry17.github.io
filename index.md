@@ -25,7 +25,7 @@ I used to be a contestant in competitive programming. I won the 3rd place, Gold 
 
 <p>
 <i class="fa-solid fa-download" style="margin-right: 8px;"></i>
-Here is my <a href="/paper/cv.pdf">cv</a></span>.
+Here is my <a href="/paper/cv.pdf">cv</a>.
 </p>
 
 ### News
