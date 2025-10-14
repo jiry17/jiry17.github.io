@@ -12,7 +12,7 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 
 #### 2025
 <table>
-	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup><a>*</a></sup>, Ruyi Jisup><a>*</a></sup>, Shuhao Zhangsup><a>*</a></sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
+	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup>*</sup>, Ruyi Jisup><sup>*</sup>, Shuhao Zhangsup<sup>*</sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/FM24.pdf">Paper</a>]</td></tr>
 	<tr> <td align="left" class="td" id="thesis">[Thesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D thesis. [<a href="/paper/thesis.pdf">Paper (in Chinese)</a>]</td></tr>
 </table>
 
