@@ -12,7 +12,7 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 
 <p><strong>2025</strong></p>
 <table>
-	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup>*</sup>, Ruyi Ji<sup>*</sup>, Shuhao Zhang<sup>*</sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/OOPSLA25.pdf">Paper</a>]</td></tr>
+	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup><a href="research#star">*</a></sup>, Ruyi Ji<sup><a href="research#star">*</a></sup>, Shuhao Zhang<sup><a href="research#star">*</a></sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/OOPSLA25.pdf">Paper</a>]</td></tr>
 	<tr> <td align="left" class="td" id="thesis">[PhDThesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D. Thesis (in Chinese), School of Computer Science, Peking University, May 2025. [<a href="/paper/thesis.pdf">Paper</a>]</td></tr>
 </table>
 
@@ -62,6 +62,8 @@ Dynamic Programming Algorithms</strong>. <a href="https://arxiv.org/abs/2202.122
 <tr> <td align="left" class="td">[PLDI20]</td> <td align="left">Ruyi Ji, Jingjing Liang, Yingfei Xiong, Lu Zhang, Zhenjiang Hu. <strong>Question Selection for Interactive Program Synthesis</strong>. PLDI'20: 41st ACM-SIGPLAN Symposium on Programming Language Design and Implementation, June 2020.[<a href="/paper/PLDI20.pdf">Paper</a>][<a href="https://www.youtube.com/watch?v=kiMqddaV0io">Video</a>][<a href="https://github.com/jiry17/IntSy">Source</a>]</td></tr>
 
 </table>
+
+<p id="star"><i>* equal contribution</i></p>
 
 
 ### Academic Service
