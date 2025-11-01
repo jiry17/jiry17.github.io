@@ -13,6 +13,7 @@ I am a postdoc at the University of Michigan, working with Prof. <a href="https:
 <p><strong>2025</strong></p>
 <table>
 	<tr> <td align="left" class="td" id="OOPSLA25">[OOPSLA25]</td> <td align="left"> Guanlin Chen<sup><a href="research#star">*</a></sup>, Ruyi Ji<sup><a href="research#star">*</a></sup>, Shuhao Zhang<sup><a href="research#star">*</a></sup>, Yingfei Xiong. <strong>Tunneling Through the Hill: Multi-Way Intersection for Version-Space Algebras in Program Synthesis</strong>. OOPSLA'25: the OOPSLA issue of the Proceedings of the ACM on Programming Languages, October 2025. [<a href="/paper/OOPSLA25.pdf">Paper</a>]</td></tr>
+	<tr> <td align="left" class="td" id="EGRAPHS25">[EGRAPHS25]</td> <td align="left"> Wentao Peng<sup><a href="research#star">*</a></sup>, Ruyi Ji<sup><a href="research#star">*</a></sup>, Yingfei Xiong. <strong>Equality Saturation Guided by Large Language Models</strong>. EGRAPHS workshop at PLDI 2025, June 2025. [<a href="/paper/EGRAPHS25.pdf">Paper</a>][<a href="/paper/EGRAPHS25-Slides.pdf">Slides (with approach updated)</a>]</td></tr>
 	<tr> <td align="left" class="td" id="thesis">[PhDThesis]</td> <td align="left">Ruyi Ji. <strong>Program Synthesis Guided by Algorithmic Paradigms</strong>. Ph.D. Thesis (in Chinese), School of Computer Science, Peking University, May 2025. [<a href="/paper/thesis.pdf">Paper</a>]</td></tr>
 </table>
 
