@@ -5,20 +5,23 @@
   <body>
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
+  <div class="page-content">
+    <div class="wrapper">
+      <div class="home">
+        
+        <div class="profile-container">
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
             alt="{{ page.profile_picture.alt }}"
             class="profilepic"
           />
-
-          {{ content }}
+          <span class="photo-caption">↑ this is a real photo</span>
         </div>
+        {{ content }}
       </div>
     </div>
-
+  </div>
+  
     {% include footer.html %}
 
     {% include foot.html %}
